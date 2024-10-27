@@ -15,11 +15,13 @@
 ![](./Guias/foto2.png)
 ## 3.Agora vá na barra de pesquisa do Windows e pesquise path
 ![](./Guias/foto3.png)
-## 4.Entre na Variável de ambiente e editaremos a variavel de ambiente Path
+## 4.Entre na Variável de ambiente 
 ![](./Guias/foto4.png)
 ![](./Guias/foto5.png)
 ![](./Guias/foto66.png)
-## 5.Para verificar se o ffmpeg e o ffprobe funcionou você abri o Prompt de Comando como Administrador
+## 5.Editaremos a variavel de ambiente Path
+![](./Guias/Foto6.png)
+## 6.Para verificar se o ffmpeg e o ffprobe funcionou você abri o Prompt de Comando como Administrador
 ![](./Guias/foto7.png)
 ![](./Guias/foto8.png)
 
