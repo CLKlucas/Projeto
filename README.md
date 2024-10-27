@@ -10,18 +10,18 @@
 [👉CLIQUE AQUI PARA BAIXAR O SOFTWARE](https://www.mediafire.com/file/td4h5jzc24ky0zz/MP4-MP3+DOWNLOAD.rar/file)
 
 ## 1.Extraia a pasta do software na area de trabalho   
-![passo 1](./Guias/foto1.png)
+![](./Guias/foto1.png)
 ## 2.Encontre uma pasta escrita PATH_Programs-ytdpl e identifique o trajeto utilizado para chegar até essa pasta
-![passo 2](./Guias/foto2.png)
+![](./Guias/foto2.png)
 ## 3.Agora vá na barra de pesquisa do Windows e pesquise path
-![passo 3](./Guias/foto3.png)
+![](./Guias/foto3.png)
 ## 4.Entre na Variável de ambiente e editaremos a variavel de ambiente Path
-![passo 4](./Guias/foto4.png)
-![passo 5](./Guias/foto5.png)
-![passo 6](./Guias/foto6.png)
+![](./Guias/foto4.png)
+![](./Guias/foto5.png)
+![](./Guias/foto6.png)
 ## 5.Para verificar se o ffmpeg e o ffprobe funcionou você abri o Prompt de Comando como Administrador
-![passo 7](./Guias/foto11.png)
-![passo 8](./Guias/foto12.png)
+![](./Guias/foto11.png)
+![](./Guias/foto12.png)
 
 # Bibliotecas usadas -->
 - [x] tkinter
