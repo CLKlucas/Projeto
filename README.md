@@ -20,8 +20,8 @@
 ![passo 5](./Guias/foto5.png)
 ![passo 6](./Guias/foto6.png)
 ## 5.Para verificar se o ffmpeg e o ffprobe funcionou você abri o Prompt de Comando como Administrador
-![passo 7](./Guias/foto7.png)
-![passo 8](./Guias/foto8.png)
+![passo 7](./Guias/foto11.png)
+![passo 8](./Guias/foto12.png)
 
 # Bibliotecas usadas -->
 - [x] tkinter
