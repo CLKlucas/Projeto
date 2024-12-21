@@ -18,7 +18,7 @@
 ## 4.Entre na Variável de ambiente 
 ![](./Guias/foto4.png)
 ![](./Guias/foto5.png)
-![](./Guias/foto66.png)
+![](./Guias/Foto6.png)
 ## 5.Editaremos a variavel de ambiente Path
 ![](./Guias/Foto6.png)
 ## 6.Para verificar se o ffmpeg e o ffprobe funcionou você abri o Prompt de Comando como Administrador
